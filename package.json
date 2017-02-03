@@ -1,0 +1,15 @@
+{
+  "name": "ninjacordovaapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oscarduranx <xoscarduranx@gmail.com> (https://github.com/OscarDuranX)",
+  "license": "ISC",
+  "dependencies": {
+    "fastclick": "^1.0.6",
+    "jquery": "^3.1.1"
+  }
+}
